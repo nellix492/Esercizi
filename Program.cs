@@ -6,17 +6,19 @@ double altezzaRettangolo;
 double raggioCerchio;
 do
 {
-    Console.WriteLine("\nMENU");
+    Console.WriteLine("\n----------- MENU-----------");
     Console.WriteLine("[A] Calcola area rettangolo");
     Console.WriteLine("[P] Calcola perimetro rettangolo");
     Console.WriteLine("[T] Calcola area triangolo");
     Console.WriteLine("[B] Calcola perimetro triangolo");
     Console.WriteLine("[E] Esci");
+    Console.WriteLine("---------------------------------------------------------------\n");
+    Console.Write("Scegli cosa vuoi fare?\n");
     scelta = Console.ReadLine().ToUpper();
     switch (scelta)
     {
         case "A":
-            Console.WriteLine("Inserisci la base del rettangolo : ");
+            Console.WriteLine("\nInserisci la base del rettangolo : ");
             while (!double.TryParse(Console.ReadLine(), out baseRettangolo) && baseRettangolo <= 0)
             {
                 Console.WriteLine("Inserisci un numero valido maggiore di zero per la base:");
@@ -29,10 +31,9 @@ do
             r.Base = baseRettangolo;
             r.Altezza = altezzaRettangolo;
             Console.WriteLine($"L'area del rettangolo è: {r.CalcolaArea()}");
-
             break;
         case "P":
-            Console.WriteLine("Inserisci la base del rettangolo : ");
+            Console.WriteLine("\nInserisci la base del rettangolo : ");
             while (!double.TryParse(Console.ReadLine(), out baseRettangolo) && baseRettangolo <= 0)
             {
                 Console.WriteLine("Inserisci un numero valido maggiore di zero per la base:");
@@ -64,7 +65,7 @@ do
                 Console.WriteLine("Inserisci un numero valido maggiore di zero per il raggio:");
             }
             cerchio.Raggio = raggioCerchio;
-            Console.WriteLine($"Il perimetro del cerchio è: {cerchio.CalcolaPerimetro()}");
+            Console.WriteLine($"Il perimetro del cerchio è:\n {cerchio.CalcolaPerimetro()}");
             break;
         case "E":
             Console.WriteLine("Sei uscito dall'applicativo!!!");
