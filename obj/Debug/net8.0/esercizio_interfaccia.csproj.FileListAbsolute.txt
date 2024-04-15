@@ -1,0 +1,14 @@
+C:\Users\niapi\source\repos\esercizio_interfaccia\obj\Debug\net8.0\esercizio_interfaccia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\niapi\source\repos\esercizio_interfaccia\obj\Debug\net8.0\esercizio_interfaccia.AssemblyInfoInputs.cache
+C:\Users\niapi\source\repos\esercizio_interfaccia\obj\Debug\net8.0\esercizio_interfaccia.AssemblyInfo.cs
+C:\Users\niapi\source\repos\esercizio_interfaccia\obj\Debug\net8.0\esercizio_interfaccia.csproj.CoreCompileInputs.cache
+C:\Users\niapi\source\repos\esercizio_interfaccia\bin\Debug\net8.0\esercizio_interfaccia.exe
+C:\Users\niapi\source\repos\esercizio_interfaccia\bin\Debug\net8.0\esercizio_interfaccia.deps.json
+C:\Users\niapi\source\repos\esercizio_interfaccia\bin\Debug\net8.0\esercizio_interfaccia.runtimeconfig.json
+C:\Users\niapi\source\repos\esercizio_interfaccia\bin\Debug\net8.0\esercizio_interfaccia.dll
+C:\Users\niapi\source\repos\esercizio_interfaccia\bin\Debug\net8.0\esercizio_interfaccia.pdb
+C:\Users\niapi\source\repos\esercizio_interfaccia\obj\Debug\net8.0\esercizio_interfaccia.dll
+C:\Users\niapi\source\repos\esercizio_interfaccia\obj\Debug\net8.0\refint\esercizio_interfaccia.dll
+C:\Users\niapi\source\repos\esercizio_interfaccia\obj\Debug\net8.0\esercizio_interfaccia.pdb
+C:\Users\niapi\source\repos\esercizio_interfaccia\obj\Debug\net8.0\esercizio_interfaccia.genruntimeconfig.cache
+C:\Users\niapi\source\repos\esercizio_interfaccia\obj\Debug\net8.0\ref\esercizio_interfaccia.dll
